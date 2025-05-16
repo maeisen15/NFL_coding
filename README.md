@@ -22,7 +22,7 @@ The work was completed as a self-directed learning and analytics application pro
 ## Files
 
 - `timeout_analysis_summary.pdf`: Full project write-up and key findings.
-- `timoeout_model_code.ipynb` / `.py`: Python code used for modeling, simulations, and visualizations.
+- `timoeout_model_code.ipynb`: Python code used for modeling, simulations, and visualizations.
 
 ## Why It Matters
 
