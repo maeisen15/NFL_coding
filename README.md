@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes second-half timeout usage in NFL games, asking a strategic question often overlooked: _In the second half of games, when is it better to take a 5-yard penalty on offense rather than burn a timeout?_ Using historical play-by-play data, predictive modeling, and win probability simulations, the analysis identifies the conditions under which saving a timeout provides more long-term value than avoiding a minor loss of yardage.
+This project analyzes second-half timeout usage in NFL games, asking a strategic question: _In the second half of games, when is it better to take a 5-yard penalty on offense rather than burn a timeout?_ Using historical play-by-play data, predictive modeling, and win probability simulations, the analysis identifies the conditions under which saving a timeout provides more long-term value than avoiding a minor loss of yardage.
 
 The work was completed as a self-directed learning and analytics application project. All modeling, analysis, and code were developed independently, with guidance from available resources and large language models for coding support.
 
