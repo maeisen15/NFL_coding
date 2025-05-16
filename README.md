@@ -21,14 +21,10 @@ The work was completed as a self-directed learning and analytics application pro
 
 ## Files
 
-- `analysis_summary.pdf`: Full project write-up and key findings.
-- `model_code.ipynb` / `.py`: Python code used for modeling, simulations, and visualizations.
+- `timeout_analysis_summary.pdf`: Full project write-up and key findings.
+- `timoeout_model_code.ipynb` / `.py`: Python code used for modeling, simulations, and visualizations.
 
 ## Why It Matters
 
 Timeouts are among the most valuable — and underutilized — assets in football strategy. This project shows that with the right data and modeling, teams can gain a meaningful edge by optimizing how and when they use them.
 
-## Project Link
-
-📄 [Read the full analysis here (PDF)](./analysis_summary.pdf)  
-🔗 [Live GitHub Repo](https://github.com/maeisen15/NFL_coding)
